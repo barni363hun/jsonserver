@@ -1,22 +1,22 @@
 [
       {
         "id": 1,
-        "title": "delectus aut autem",
+        "title": "Todo egy",
         "completed": true
       },
       {
         "id": 2,
-        "title": 'Todo ketto',
+        "title": "Todo ketto",
         "completed": true
       },
       {
         "id": 3,
-        "title": 'Todo harom',
+        "title": "Todo harom",
         "completed": false
       },
       {
         "id": 4,
-        "title": 'Todo negy',
+        "title": "Todo negy",
         "completed": true
       }
 ]
