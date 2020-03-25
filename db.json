@@ -1,0 +1,22 @@
+[
+      {
+        id: 1,
+        title: 'Todo egy',
+        completed: true
+      },
+      {
+        id: 2,
+        title: 'Todo ketto',
+        completed: true
+      },
+      {
+        id: 3,
+        title: 'Todo harom',
+        completed: false
+      },
+      {
+        id: 4,
+        title: 'Todo negy',
+        completed: true
+      }
+]
