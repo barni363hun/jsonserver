@@ -1,7 +1,7 @@
 [
       {
         "id": 1,
-        "title": "Todo egy",
+        "title": 'Todo egy',
         "completed": true
       },
       {
